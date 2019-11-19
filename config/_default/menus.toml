@@ -17,6 +17,7 @@
   name = "My photos"
   url = "#my-photos"
   weight = 50
+  identifier = "photos"
 
 [[main]]
   name = "Contact"
