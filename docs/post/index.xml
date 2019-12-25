@@ -5,7 +5,7 @@
     <link>//localhost:1313/post/</link>
       <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alexander Vasin</copyright><lastBuildDate>Thu, 27 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alexander Vasin</copyright><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,16 +13,168 @@
     </image>
     
     <item>
+      <title>Apple is giving us some time to read books</title>
+      <link>//localhost:1313/post/time-to-read/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/time-to-read/</guid>
+      <description>&lt;p&gt;I always wanted to read more. Everybody wants to read more.&lt;/p&gt;
+&lt;p&gt;We all know it is very important for us to read actual books instead of web articles and facebook feed. But it always seems there is not enough time for books. Where should one find an hour or so to read a book if he struggles to find time even for a cup of tea?&lt;/p&gt;
+&lt;p&gt;I thought this way all of the time until Apple introduced screen time feature to iOs. Then I found I spend two hours a day in front of my phone, and that&#39;s even after I ditched Instagram from my phone and set a time limit for twitter.&lt;/p&gt;
+&lt;p&gt;My weekly social networking time is 7 hours. What am I doing there for 7 hours? That&#39;s a lot of time! I could redirect it to reading books. Of course, some of that time is spent on a toilet seat, but even there you could read a book rather than scrolling infinity facebook feed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./screen_time.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My advice for everybody who is struggling to read more books:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove most of the social networking apps from your phone, so you don&#39;t have quick access to them.&lt;/li&gt;
+&lt;li&gt;Set limits for the ones that you decided to keep.&lt;/li&gt;
+&lt;li&gt;Every time you reach for a phone to grab, either resist the urge and get a book instead or start reading from an application.&lt;/li&gt;
+&lt;li&gt;When your phone says it&#39;s enough, don&#39;t snooze the alarm, get a book.&lt;/li&gt;
+&lt;li&gt;When it starts to work, make limits a little bit smaller.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Voila! You have several hours a week for books. We don&#39;t even realize how much time we spend on those social networks that specially designed this way, so we keep scrolling on and on.&lt;/p&gt;
+&lt;p&gt;Keeping your books on a separate device or even on paper makes it easier. If you are reading from your phone you could slip to opening messaging application or news feed.&lt;/p&gt;
+&lt;p&gt;We all love memes and kittens, but let&#39;s face it - they don&#39;t make us smarter. So let&#39;s keep that kitten-time limited and spend some of it for reading books. Then you can enjoy your kittens and be both intelligent and happy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cruising</title>
+      <link>//localhost:1313/post/cruising/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/cruising/</guid>
+      <description>&lt;p&gt;Love this one!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/eU6lzG3iT0Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Boarding in Borovets, 2017</title>
+      <link>//localhost:1313/post/boarding-in-borovets-2017/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/boarding-in-borovets-2017/</guid>
+      <description>&lt;p&gt;I have just returned from a family trip to Borovets, Bulgaria. It is a really good place for a winter vacation. It is not expensive and very friendly. I even had a chance to sing a song with a local musician in the Red Lion bar. Great place, by the way. Especially if you are enjoying live music.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uBEA41CGGrI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Baking MacBook Pro</title>
+      <link>//localhost:1313/post/baking-macbook-pro/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/baking-macbook-pro/</guid>
+      <description>&lt;p&gt;Today I have baked MacBook Pro for dinner.&lt;/p&gt;
+&lt;p&gt;I have never thought that it could happen to me when I was told about some people baking their graphic cards or motherboards to fix them.
+Today I baked one myself.&lt;/p&gt;
+&lt;p&gt;It was MacBook Pro 17&amp;rdquo; A1212 that I gave to my dad long ago. Recently he complained that it would not start. When I get my hands on the laptop I found out that it shows a checkered screen with an apple logo when booting and then nothing.&lt;/p&gt;
+&lt;p&gt;I immediately googled for the &amp;ldquo;MacBook Pro checkered screen&amp;rdquo; and found out this &lt;a href=&#34;https://www.youtube.com/watch?v=D9bJlLCnByc&#34;&gt;video&lt;/a&gt;. Besides the fact that this video is fun, it was really inspiring. So I covered motherboard with aluminum foil leaving only graphic chip uncovered and heated it with a hairdryer for 12 minutes.&lt;/p&gt;
+&lt;p&gt;Honestly, I was skeptical about the result. Despite my skepticism, it fixed the graphic after the first try. Turns out the heat melts the soldering that was used to connect the chip to the motherboard and all broken connections get fixed.&lt;/p&gt;
+&lt;p&gt;I think my dad will be so happy to get his MacBook Pro back.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Java C: drive and current directory</title>
+      <link>//localhost:1313/post/java-c-drive-and-current-directory/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/java-c-drive-and-current-directory/</guid>
+      <description>&lt;p&gt;Hello again.&lt;/p&gt;
+&lt;p&gt;Today i want to share small feature that cost me some time while learning Java.&lt;/p&gt;
+&lt;p&gt;If you want to use directory and access it using this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;File directory &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; File&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;c:&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;directory&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;getAbsolutePath&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then it will give you your current working directory in &amp;lsquo;C:&amp;rsquo; drive. If you would like to get the root of the &amp;lsquo;C:&amp;rsquo; drive call it this way:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;File directory &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; File&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;c:\\&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;directory&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;getAbsolutePath&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Keep this in mind as it could cause some troubles when you reading directory from user input. Depending on what user type &amp;lsquo;C:&amp;rsquo; or &amp;lsquo;C:&#39; you will get different results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>January 17, 2o14</title>
+      <link>//localhost:1313/post/january-17-2014/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/january-17-2014/</guid>
+      <description>&lt;p&gt;It seems like I will remember this day forever. This day I experienced so many things for the first time. For the first time in my life I was feeling sick because of fear. For the first time in my life I nearly fainted. For the first time in my life I was crying from happiness. For the first time in my life I became a father.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My wedding clip</title>
+      <link>//localhost:1313/post/my-wedding-clip/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/my-wedding-clip/</guid>
+      <description>&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;It has been a year since I got married. This happened on 9 September in Las Vegas, NV. To celebrate the past year I have made this little video clip describing how we got married. I like it.&lt;/p&gt;
+&lt;p&gt;This was a beautiful time!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ezpWGFVxI5o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Getting list of printers under Windows 2003 Server</title>
+      <link>//localhost:1313/post/list-of-printers/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/list-of-printers/</guid>
+      <description>&lt;p&gt;This article is just a quick reminder to myself. Sometimes it is hard to
+find the information on how to do something so important like getting a list of printers in the command line.&lt;/p&gt;
+&lt;p&gt;Recently I faced the task that required me to export a list of printers from Windows 2003 Server. Of course, it would be an easier task in case of Windows 2008 Server but the older version has its tools too.&lt;/p&gt;
+&lt;p&gt;The command that shows the list of printers is&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;prnmgr -l
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can redirect it into a CSV file for your convenience.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;prnmgr -l &amp;gt; printers.csv
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Also, the system might ask you to do this prior to running prnmgr.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;CScript //H:Cscript //S
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Good luck!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excel tips for system administrators</title>
+      <link>//localhost:1313/post/excel-tips-for-system-administrators/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/excel-tips-for-system-administrators/</guid>
+      <description>&lt;p&gt;Microsoft Excel is a very powerful tool. It is being used every day by lots of people around the world and every one of them uses it in a slightly different manner. Many different tasks can be completed using Excel. I personally believe that Excel is the best Microsoft product.&lt;/p&gt;
+&lt;p&gt;In my everyday job, I use Excel for several tasks. Of course, there is reporting tasks when I am preparing performance graphs or finding thin places in huge amounts of data. Also, I use excel when fulfilling my system administrator&#39;s task. In this article, I want to share some useful tips that help me every day.&lt;/p&gt;
+&lt;p&gt;Imagine that you need to provide a list of user&#39;s databases to HR so they can clean it up. This is a pretty simple task. In Windows open command prompt, go do directory which contains databases and enter&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;dir /b &amp;gt; databases.csv
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;ldquo;/b&amp;rdquo; option needs to eliminate unnecessary information in the resulting file. In Linux, it is even simpler. Just type in&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;  ls &amp;gt; databases.csv
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and that is it. This will populate the file with filenames in the directory. You can then open in Excel, do whatever you want and send it to the HR department.&lt;/p&gt;
+&lt;p&gt;Now imagine that your file was processed and you have 100 records selected for removal. Some of the people would remove it by hands and be Ok with it. I would like to automate this task a little. There is no need to install additional software for this. We will use only Excel and the command prompt. Filter your result the way you can see only files that need to be removed. Next to the column with filenames type in this formula:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;CONCATENATE(&amp;quot;DEL /F /Q&amp;quot;; A1)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This way you get command for quiet deletion of the file as a result. In Linux, I would use this command.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;rm -f
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./excel_tips_01.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Then expand column &amp;ldquo;B&amp;rdquo; and you will get the desired command for every file from the &amp;ldquo;A&amp;rdquo; column.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./excel_tips_02.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Looks great! All you need to do is to open a command prompt, navigate to the folder that contains these files and copy-paste column &amp;ldquo;B&amp;rdquo; to command prompt. Every command from the column will be performed one by one and all the required files will be removed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./excel_tips_03.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is a good way to save some time. You can automate many routine tasks this way. Instead of delete command, you can create files, rename them, copy. You can do the same trick with directories. All you need to do is to take your list and concatenate it with the right command that will perform a quiet operation.&lt;/p&gt;
+&lt;p&gt;Be careful with this as you may accidentally do something you would not want. It is good to create a test environment and try it out there.&lt;/p&gt;
+&lt;p&gt;P.S. BTW, for this article, I used &lt;a href=&#34;http://listofrandomnames.com&#34;&gt;&lt;a href=&#34;http://listofrandomnames.com&#34;&gt;http://listofrandomnames.com&lt;/a&gt;&lt;/a&gt; to create a list of random names. Then I created files the same way described in this article. This is a great solution for testing your batch commands. Good Luck!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New York, New York</title>
       <link>//localhost:1313/post/new-york/</link>
       <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/new-york/</guid>
       <description>&lt;p&gt;Recently I went to USA for a second time. This time I spend a week in New York only. This city is extra ordinal. It is huge in so many aspects. It has so many things to love as well as a lot of things to hate. I really enjoyed my stay.&lt;/p&gt;
-
 &lt;p&gt;I would like to share some places that I liked and of course some photos.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Highline Park&lt;/strong&gt; is a great example of how to turn something old and ugly into beautiful thing. The park is built on abandoned railroad. It is nice place to have a walk or relax. I walked through all of it in early morning and enjoyed great view of the city and some fresh air.&lt;/p&gt;
-
 
 
 
@@ -52,15 +204,10 @@
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;If you are going to climb Empire State Building consider &lt;strong&gt;Top of the Rock&lt;/strong&gt; on the Rockefeller Center as replacement. Not that it is better than ESB but it has different experience. First of all you are going to see ESB itself and Central Park from good perspective.&lt;/p&gt;
-
 &lt;p&gt;Second thing is that the Top of the rock is not so high. It might look as a lack but it turns out as advantage. The surrounding buildings look more impressive from Top of the Rock because you are closer to them.&lt;/p&gt;
-
 &lt;p&gt;And the third advantage is that the lines are much shorter comparing to Empire State Building so you will go there much faster, especially if you booked it online in advance. At the end of the day I recommend climbing on to both of the observation decks - they provide gorgeous views.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;American Museum of Natural History&lt;/strong&gt; is absolutely fantastic! We have not so many good science museums here in Russia so I was amazed. My personal favorites are Hayden Planetarium and IMAX movie. Plan in advance as you might spend there whole day. So many things are there.&lt;/p&gt;
-
 
 
 
@@ -90,15 +237,10 @@
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;&lt;strong&gt;Central Park&lt;/strong&gt; is one of the most popular places in New York. Go there in the early morning. At this time air is cooler and fresher and the park will not be overcrowded. If you like animals then aim for squirrels. There are a lot of them. Mostly they are very friendly and available for a contact if you have some peanuts.&lt;/p&gt;
-
-&lt;p&gt;I always add great places to eat to my trip plan. This time I visited several places and here are the best of them. &lt;strong&gt;Eileen&amp;rsquo;s Special Cheesecake&lt;/strong&gt; is a must visit place for everyone who loves desserts. This small bakery located at 17 Cleveland Place. You can eat there, take away and even order cheesecakes to your home. Their cheesecakes are piece of art. I hope someday I will learn to bake cheesecake tasting like those I tried at Eileen&amp;rsquo;s.&lt;/p&gt;
-
+&lt;p&gt;I always add great places to eat to my trip plan. This time I visited several places and here are the best of them. &lt;strong&gt;Eileen&#39;s Special Cheesecake&lt;/strong&gt; is a must visit place for everyone who loves desserts. This small bakery located at 17 Cleveland Place. You can eat there, take away and even order cheesecakes to your home. Their cheesecakes are piece of art. I hope someday I will learn to bake cheesecake tasting like those I tried at Eileen&#39;s.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pete Luger Steak House&lt;/strong&gt; is another place I very recommend. This restaurant is located on 178 Broadway, Brooklyn and provides the most amazing steaks I have ever tried. There is nothing to add to it. Love steaks? Go to Peter Luger.&lt;/p&gt;
-
 &lt;p&gt;Here is some photos from my both trips to USA. Hope you will find some time to take a look.&lt;/p&gt;
-
 
 
 
@@ -178,22 +320,70 @@
     </item>
     
     <item>
+      <title>Video from my big trip through USA</title>
+      <link>//localhost:1313/post/video-from-my-big-trip-through-usa/</link>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/video-from-my-big-trip-through-usa/</guid>
+      <description>&lt;p&gt;Hello there!&lt;/p&gt;
+&lt;p&gt;It is been a while since I posted so I decided to share my vacation movie. I have already posted a trailer that I made with iMovie. Now I am posting this clip that contains a little bit more. I still recall this trip as my best vacation ever. I hope you will like it. I will try to do more exciting trips in the future.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jejrEvznuYo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Look at my iMovie trailer</title>
+      <link>//localhost:1313/post/look-at-my-imovie-trailer/</link>
+      <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/look-at-my-imovie-trailer/</guid>
+      <description>&lt;p&gt;I got my hands on iMovie recently. With trailer templates, it is so easy to create great videos that make people smile. Look at what I did in 30 minutes with it. It is gorgeous. I and my friends loved it so much. Thank you, Apple for such a great application.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tlQoPq8P_8Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>My USA trip</title>
+      <link>//localhost:1313/post/my-usa-trip/</link>
+      <pubDate>Tue, 18 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/my-usa-trip/</guid>
+      <description>&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;I just got back from my trip to the USA. It was an amazing experience. We traveled through 13 states from east to west. The amount of things I saw in these two weeks is huge. Every day was a trip by itself. I can not wait to share my photos.&lt;/p&gt;
+&lt;p&gt;By now I have created a map with all the main stops we had by the way from New York to San Francisco.&lt;/p&gt;
+&lt;p&gt;I hope you will like it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cultural heritage</title>
       <link>//localhost:1313/post/cultural-heritage/</link>
       <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/cultural-heritage/</guid>
-      <description>&lt;p&gt;I love traveling and food. A rare person doesn&amp;rsquo;t like these two, right?&lt;/p&gt;
-
-&lt;p&gt;At the intersection of these my two passions I love eating while I am traveling. Don&amp;rsquo;t get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try
+      <description>&lt;p&gt;I love traveling and food. A rare person doesn&#39;t like these two, right?&lt;/p&gt;
+&lt;p&gt;At the intersection of these my two passions I love eating while I am traveling. Don&#39;t get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try
 to watch every other sculpture that foreign country may provide. I do not mind sightseeing at all and there are many beautiful things to see in any country.&lt;/p&gt;
-
 &lt;p&gt;But.&lt;/p&gt;
-
 &lt;p&gt;Pretty often there is a local food that has a very rich history too. For example, the history of Czech beer is older than the history of many famous Czech buildings. Any country can share some food features.&lt;/p&gt;
-
 &lt;p&gt;Like architecture, local food can be affected by other cultures. Some time ago there was no potato in Russia. Now one can not imagine Russian cousin without a potato.&lt;/p&gt;
-
 &lt;p&gt;People eat every day. In most countries. Next time you will be abroad, try a taste of local culture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello and Welcome!</title>
+      <link>//localhost:1313/post/hello/</link>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/hello/</guid>
+      <description>&lt;p&gt;I have been dreaming about my own blog since I had my first PC. Those times the internet in Russia was pretty bad. There was only one dial-up provider in my town, and the prices were huge. In fact, it was billed per minute of usage. I had to disconnect every time the page was loaded so I could read it in peace without worrying about money.
+I never felt neither I had enough things to tell about, nor my English level was proficient enough. I tried to create my own web sites though they were pretty basic.
+It changed a lot since then. I learned English a bit. I started to gain my technical skills and develop my career in IT. Now it seems like I can afford a little blog of mine.&lt;/p&gt;
+&lt;p&gt;We&#39;ll see how it goes.&lt;/p&gt;
 </description>
     </item>
     
