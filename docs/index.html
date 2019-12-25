@@ -31,7 +31,7 @@
   <meta name="description" content="Alexander Vasin&#39;s web site">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/">
+  <link rel="alternate" hreflang="en-us" href="/">
 
   
 
@@ -89,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2535611-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-2535611-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -100,7 +136,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/">
+  <link rel="canonical" href="/">
 
   
   
@@ -113,10 +149,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Alexander Vasin">
-  <meta property="og:url" content="//localhost:1313/">
+  <meta property="og:url" content="/">
   <meta property="og:title" content="Alexander Vasin">
-  <meta property="og:description" content="Alexander Vasin&#39;s web site"><meta property="og:image" content="//localhost:1313/img/icon-192.png">
-  <meta property="twitter:image" content="//localhost:1313/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Alexander Vasin&#39;s web site"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2019-12-05T00:00:00&#43;00:00">
   
@@ -129,10 +165,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "//localhost:1313/?q={search_term_string}",
+    "target": "/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "//localhost:1313/"
+  "url": "/"
 }
 </script>
 
@@ -1595,5 +1631,5 @@ If you want to use directory and access it …
   </div>
 </div>
 
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</body>
 </html>

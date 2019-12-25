@@ -33,7 +33,7 @@ I would like to share some places that I liked and of course some photos.
 Highline Park is a great example of how to turn something old and ugly into beautiful thing.">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/post/new-york/">
+  <link rel="alternate" hreflang="en-us" href="/post/new-york/">
 
   
 
@@ -91,6 +91,42 @@ Highline Park is a great example of how to turn something old and ugly into beau
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2535611-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-2535611-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -100,7 +136,7 @@ Highline Park is a great example of how to turn something old and ugly into beau
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/post/new-york/">
+  <link rel="canonical" href="/post/new-york/">
 
   
   
@@ -112,12 +148,12 @@ Highline Park is a great example of how to turn something old and ugly into beau
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Alexander Vasin">
-  <meta property="og:url" content="//localhost:1313/post/new-york/">
+  <meta property="og:url" content="/post/new-york/">
   <meta property="og:title" content="New York, New York | Alexander Vasin">
   <meta property="og:description" content="Recently I went to USA for a second time. This time I spend a week in New York only. This city is extra ordinal. It is huge in so many aspects. It has so many things to love as well as a lot of things to hate. I really enjoyed my stay.
 I would like to share some places that I liked and of course some photos.
-Highline Park is a great example of how to turn something old and ugly into beautiful thing."><meta property="og:image" content="//localhost:1313/post/new-york/featured.jpg">
-  <meta property="twitter:image" content="//localhost:1313/post/new-york/featured.jpg"><meta property="og:locale" content="en-us">
+Highline Park is a great example of how to turn something old and ugly into beautiful thing."><meta property="og:image" content="/post/new-york/featured.jpg">
+  <meta property="twitter:image" content="/post/new-york/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2013-06-27T00:00:00&#43;00:00">
@@ -148,12 +184,12 @@ Highline Park is a great example of how to turn something old and ugly into beau
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/post/new-york/"
+    "@id": "/post/new-york/"
   },
   "headline": "New York, New York",
   
   "image": [
-    "//localhost:1313/post/new-york/featured.jpg"
+    "/post/new-york/featured.jpg"
   ],
   
   "datePublished": "2013-06-27T00:00:00Z",
@@ -169,7 +205,7 @@ Highline Park is a great example of how to turn something old and ugly into beau
     "name": "Alexander Vasin",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/img/icon-512.png"
+      "url": "/img/icon-512.png"
     }
   },
   "description": "Recently I went to USA for a second time. This time I spend a week in New York only. This city is extra ordinal. It is huge in so many aspects. It has so many things to love as well as a lot of things to hate. I really enjoyed my stay.\nI would like to share some places that I liked and of course some photos.\nHighline Park is a great example of how to turn something old and ugly into beautiful thing."
@@ -680,7 +716,7 @@ Highline Park is a great example of how to turn something old and ugly into beau
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="//localhost:1313/">Alexander Vasin</a></h5>
+      <h5 class="card-title"><a href="/">Alexander Vasin</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -943,5 +979,5 @@ Highline Park is a great example of how to turn something old and ugly into beau
   </div>
 </div>
 
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</body>
 </html>

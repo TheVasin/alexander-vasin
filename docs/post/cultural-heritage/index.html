@@ -32,7 +32,7 @@
 At the intersection of these my two passions I love eating while I am traveling. Don&#39;t get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try to watch every other sculpture that foreign country may provide.">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/post/cultural-heritage/">
+  <link rel="alternate" hreflang="en-us" href="/post/cultural-heritage/">
 
   
 
@@ -90,6 +90,42 @@ At the intersection of these my two passions I love eating while I am traveling.
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2535611-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-2535611-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -99,7 +135,7 @@ At the intersection of these my two passions I love eating while I am traveling.
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/post/cultural-heritage/">
+  <link rel="canonical" href="/post/cultural-heritage/">
 
   
   
@@ -111,11 +147,11 @@ At the intersection of these my two passions I love eating while I am traveling.
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Alexander Vasin">
-  <meta property="og:url" content="//localhost:1313/post/cultural-heritage/">
+  <meta property="og:url" content="/post/cultural-heritage/">
   <meta property="og:title" content="Cultural heritage | Alexander Vasin">
   <meta property="og:description" content="I love traveling and food. A rare person doesn&#39;t like these two, right?
-At the intersection of these my two passions I love eating while I am traveling. Don&#39;t get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try to watch every other sculpture that foreign country may provide."><meta property="og:image" content="//localhost:1313/post/cultural-heritage/featured.jpg">
-  <meta property="twitter:image" content="//localhost:1313/post/cultural-heritage/featured.jpg"><meta property="og:locale" content="en-us">
+At the intersection of these my two passions I love eating while I am traveling. Don&#39;t get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try to watch every other sculpture that foreign country may provide."><meta property="og:image" content="/post/cultural-heritage/featured.jpg">
+  <meta property="twitter:image" content="/post/cultural-heritage/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2012-07-04T00:00:00&#43;00:00">
@@ -146,12 +182,12 @@ At the intersection of these my two passions I love eating while I am traveling.
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/post/cultural-heritage/"
+    "@id": "/post/cultural-heritage/"
   },
   "headline": "Cultural heritage",
   
   "image": [
-    "//localhost:1313/post/cultural-heritage/featured.jpg"
+    "/post/cultural-heritage/featured.jpg"
   ],
   
   "datePublished": "2012-07-04T00:00:00Z",
@@ -167,7 +203,7 @@ At the intersection of these my two passions I love eating while I am traveling.
     "name": "Alexander Vasin",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/img/icon-512.png"
+      "url": "/img/icon-512.png"
     }
   },
   "description": "I love traveling and food. A rare person doesn't like these two, right?\nAt the intersection of these my two passions I love eating while I am traveling. Don't get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try to watch every other sculpture that foreign country may provide."
@@ -541,7 +577,7 @@ to watch every other sculpture that foreign country may provide. I do not mind s
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="//localhost:1313/">Alexander Vasin</a></h5>
+      <h5 class="card-title"><a href="/">Alexander Vasin</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -804,5 +840,5 @@ to watch every other sculpture that foreign country may provide. I do not mind s
   </div>
 </div>
 
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</body>
 </html>
