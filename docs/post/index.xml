@@ -5,7 +5,7 @@
     <link>//localhost:1313/post/</link>
       <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alexander Vasin</copyright><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alexander Vasin</copyright><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Posts</title>
