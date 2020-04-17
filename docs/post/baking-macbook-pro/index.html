@@ -33,7 +33,7 @@ I have never thought that it could happen to me when I was told about some peopl
 It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he complained that it would not start. When I get my hands on the laptop I found out that it shows a checkered screen with an apple logo when booting and then nothing.">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/post/baking-macbook-pro/">
+  <link rel="alternate" hreflang="en-us" href="/post/baking-macbook-pro/">
 
   
 
@@ -91,6 +91,42 @@ It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he c
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2535611-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-2535611-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -100,7 +136,7 @@ It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he c
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/post/baking-macbook-pro/">
+  <link rel="canonical" href="/post/baking-macbook-pro/">
 
   
   
@@ -112,12 +148,12 @@ It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he c
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Alexander Vasin">
-  <meta property="og:url" content="//localhost:1313/post/baking-macbook-pro/">
+  <meta property="og:url" content="/post/baking-macbook-pro/">
   <meta property="og:title" content="Baking MacBook Pro | Alexander Vasin">
   <meta property="og:description" content="Today I have baked MacBook Pro for dinner.
 I have never thought that it could happen to me when I was told about some people baking their graphic cards or motherboards to fix them. Today I baked one myself.
-It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he complained that it would not start. When I get my hands on the laptop I found out that it shows a checkered screen with an apple logo when booting and then nothing."><meta property="og:image" content="//localhost:1313/post/baking-macbook-pro/featured.jpeg">
-  <meta property="twitter:image" content="//localhost:1313/post/baking-macbook-pro/featured.jpeg"><meta property="og:locale" content="en-us">
+It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he complained that it would not start. When I get my hands on the laptop I found out that it shows a checkered screen with an apple logo when booting and then nothing."><meta property="og:image" content="/post/baking-macbook-pro/featured.jpeg">
+  <meta property="twitter:image" content="/post/baking-macbook-pro/featured.jpeg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2016-07-20T00:00:00&#43;00:00">
@@ -148,12 +184,12 @@ It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he c
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/post/baking-macbook-pro/"
+    "@id": "/post/baking-macbook-pro/"
   },
   "headline": "Baking MacBook Pro",
   
   "image": [
-    "//localhost:1313/post/baking-macbook-pro/featured.jpeg"
+    "/post/baking-macbook-pro/featured.jpeg"
   ],
   
   "datePublished": "2016-07-20T00:00:00Z",
@@ -169,7 +205,7 @@ It was MacBook Pro 17&rdquo; A1212 that I gave to my dad long ago. Recently he c
     "name": "Alexander Vasin",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/img/icon-512.png"
+      "url": "/img/icon-512.png"
     }
   },
   "description": "Today I have baked MacBook Pro for dinner.\nI have never thought that it could happen to me when I was told about some people baking their graphic cards or motherboards to fix them. Today I baked one myself.\nIt was MacBook Pro 17\u0026rdquo; A1212 that I gave to my dad long ago. Recently he complained that it would not start. When I get my hands on the laptop I found out that it shows a checkered screen with an apple logo when booting and then nothing."
@@ -543,7 +579,7 @@ Today I baked one myself.</p>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="//localhost:1313/">Alexander Vasin</a></h5>
+      <h5 class="card-title"><a href="/">Alexander Vasin</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -823,5 +859,5 @@ Today I baked one myself.</p>
   </div>
 </div>
 
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</body>
 </html>

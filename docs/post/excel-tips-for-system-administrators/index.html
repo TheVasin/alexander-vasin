@@ -32,7 +32,7 @@
 In my everyday job, I use Excel for several tasks. Of course, there is reporting tasks when I am preparing performance graphs or finding thin places in huge amounts of data.">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/post/excel-tips-for-system-administrators/">
+  <link rel="alternate" hreflang="en-us" href="/post/excel-tips-for-system-administrators/">
 
   
 
@@ -90,6 +90,42 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2535611-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-2535611-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -99,7 +135,7 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/post/excel-tips-for-system-administrators/">
+  <link rel="canonical" href="/post/excel-tips-for-system-administrators/">
 
   
   
@@ -112,11 +148,11 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Alexander Vasin">
-  <meta property="og:url" content="//localhost:1313/post/excel-tips-for-system-administrators/">
+  <meta property="og:url" content="/post/excel-tips-for-system-administrators/">
   <meta property="og:title" content="Excel tips for system administrators | Alexander Vasin">
   <meta property="og:description" content="Microsoft Excel is a very powerful tool. It is being used every day by lots of people around the world and every one of them uses it in a slightly different manner. Many different tasks can be completed using Excel. I personally believe that Excel is the best Microsoft product.
-In my everyday job, I use Excel for several tasks. Of course, there is reporting tasks when I am preparing performance graphs or finding thin places in huge amounts of data."><meta property="og:image" content="//localhost:1313/img/icon-192.png">
-  <meta property="twitter:image" content="//localhost:1313/img/icon-192.png"><meta property="og:locale" content="en-us">
+In my everyday job, I use Excel for several tasks. Of course, there is reporting tasks when I am preparing performance graphs or finding thin places in huge amounts of data."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2013-07-02T00:00:00&#43;00:00">
@@ -147,7 +183,7 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/post/excel-tips-for-system-administrators/"
+    "@id": "/post/excel-tips-for-system-administrators/"
   },
   "headline": "Excel tips for system administrators",
   
@@ -164,7 +200,7 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
     "name": "Alexander Vasin",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/img/icon-512.png"
+      "url": "/img/icon-512.png"
     }
   },
   "description": "Microsoft Excel is a very powerful tool. It is being used every day by lots of people around the world and every one of them uses it in a slightly different manner. Many different tasks can be completed using Excel. I personally believe that Excel is the best Microsoft product.\nIn my everyday job, I use Excel for several tasks. Of course, there is reporting tasks when I am preparing performance graphs or finding thin places in huge amounts of data."
@@ -535,7 +571,7 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="//localhost:1313/">Alexander Vasin</a></h5>
+      <h5 class="card-title"><a href="/">Alexander Vasin</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -815,5 +851,5 @@ In my everyday job, I use Excel for several tasks. Of course, there is reporting
   </div>
 </div>
 
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</body>
 </html>

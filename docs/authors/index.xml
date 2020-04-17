@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Alexander Vasin</title>
-    <link>//localhost:1313/authors/</link>
-      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alexander Vasin</copyright>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>//localhost:1313/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My name is Alexander, I am from Russia. I was born in Stupino, 1985.&lt;/p&gt;
 &lt;p&gt;There are so many things around that makes me interested. Among many others are longboarding, music, books, photography, computers, cooking, travel.&lt;/p&gt;
 &lt;p&gt;I share a house with a cat, son and wife. I play guitar and cook dinners for my family.&lt;/p&gt;
