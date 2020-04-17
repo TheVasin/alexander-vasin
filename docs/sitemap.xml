@@ -3,108 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/post/my-live-stream/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/post/time-to-read/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/time-to-read/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/cruising/</loc>
+    <loc>//localhost:1313/post/cruising/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/boarding-in-borovets-2017/</loc>
+    <loc>//localhost:1313/post/boarding-in-borovets-2017/</loc>
     <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/baking-macbook-pro/</loc>
+    <loc>//localhost:1313/post/baking-macbook-pro/</loc>
     <lastmod>2016-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/java-c-drive-and-current-directory/</loc>
+    <loc>//localhost:1313/post/java-c-drive-and-current-directory/</loc>
     <lastmod>2014-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/january-17-2014/</loc>
+    <loc>//localhost:1313/post/january-17-2014/</loc>
     <lastmod>2014-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/my-wedding-clip/</loc>
+    <loc>//localhost:1313/post/my-wedding-clip/</loc>
     <lastmod>2013-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/list-of-printers/</loc>
+    <loc>//localhost:1313/post/list-of-printers/</loc>
     <lastmod>2013-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/excel-tips-for-system-administrators/</loc>
+    <loc>//localhost:1313/post/excel-tips-for-system-administrators/</loc>
     <lastmod>2013-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/new-york/</loc>
+    <loc>//localhost:1313/post/new-york/</loc>
     <lastmod>2013-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/video-from-my-big-trip-through-usa/</loc>
+    <loc>//localhost:1313/post/video-from-my-big-trip-through-usa/</loc>
     <lastmod>2013-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/look-at-my-imovie-trailer/</loc>
+    <loc>//localhost:1313/post/look-at-my-imovie-trailer/</loc>
     <lastmod>2012-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/my-usa-trip/</loc>
+    <loc>//localhost:1313/post/my-usa-trip/</loc>
     <lastmod>2012-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cultural-heritage/</loc>
+    <loc>//localhost:1313/post/cultural-heritage/</loc>
     <lastmod>2012-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hello/</loc>
+    <loc>//localhost:1313/post/hello/</loc>
     <lastmod>2012-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>//localhost:1313/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>//localhost:1313/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
   
 </urlset>

@@ -111,7 +111,8 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "My twitter", link = "https://twitter.com/vasin"},
   {icon = "telegram", icon_pack = "fab", name = "My telegram", link = "https://telegram.me/@TheVasin"},
-  {icon = "linkedin-in", icon_pack = "fab", name = "My Linked In", link = "https://telegram.me/@TheVasin"}
+  {icon = "linkedin-in", icon_pack = "fab", name = "My Linked In", link = "https://telegram.me/@TheVasin"},
+  {icon = "youtube", icon_pack = "fab", name = "My live stream", link = "https://youtu.be/we9oHVrd7o4"}
 ]
 
 ############################

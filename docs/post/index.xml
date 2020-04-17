@@ -2,21 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Alexander Vasin</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/post/</link>
+      <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alexander Vasin</copyright><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>//localhost:1313/post/</link>
     </image>
     
     <item>
+      <title>My live stream</title>
+      <link>//localhost:1313/post/my-live-stream/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/my-live-stream/</guid>
+      <description>&lt;p&gt;Since we are all sitting at homes anyway I have decided to play guitar live on YouTube and invite some friends over to watch it and share some drinks with me(virtually, via the magic of the internet connection).&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/we9oHVrd7o4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Apple is giving us some time to read books</title>
-      <link>/post/time-to-read/</link>
+      <link>//localhost:1313/post/time-to-read/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/time-to-read/</guid>
+      <guid>//localhost:1313/post/time-to-read/</guid>
       <description>&lt;p&gt;I always wanted to read more. Everybody wants to read more.&lt;/p&gt;
 &lt;p&gt;We all know it is very important for us to read actual books instead of web articles and facebook feed. But it always seems there is not enough time for books. Where should one find an hour or so to read a book if he struggles to find time even for a cup of tea?&lt;/p&gt;
 &lt;p&gt;I thought this way all of the time until Apple introduced screen time feature to iOs. Then I found I spend two hours a day in front of my phone, and that&#39;s even after I ditched Instagram from my phone and set a time limit for twitter.&lt;/p&gt;
@@ -39,9 +53,9 @@
     
     <item>
       <title>Cruising</title>
-      <link>/post/cruising/</link>
+      <link>//localhost:1313/post/cruising/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/post/cruising/</guid>
+      <guid>//localhost:1313/post/cruising/</guid>
       <description>&lt;p&gt;Love this one!&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -53,9 +67,9 @@
     
     <item>
       <title>Boarding in Borovets, 2017</title>
-      <link>/post/boarding-in-borovets-2017/</link>
+      <link>//localhost:1313/post/boarding-in-borovets-2017/</link>
       <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/post/boarding-in-borovets-2017/</guid>
+      <guid>//localhost:1313/post/boarding-in-borovets-2017/</guid>
       <description>&lt;p&gt;I have just returned from a family trip to Borovets, Bulgaria. It is a really good place for a winter vacation. It is not expensive and very friendly. I even had a chance to sing a song with a local musician in the Red Lion bar. Great place, by the way. Especially if you are enjoying live music.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -67,9 +81,9 @@
     
     <item>
       <title>Baking MacBook Pro</title>
-      <link>/post/baking-macbook-pro/</link>
+      <link>//localhost:1313/post/baking-macbook-pro/</link>
       <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/post/baking-macbook-pro/</guid>
+      <guid>//localhost:1313/post/baking-macbook-pro/</guid>
       <description>&lt;p&gt;Today I have baked MacBook Pro for dinner.&lt;/p&gt;
 &lt;p&gt;I have never thought that it could happen to me when I was told about some people baking their graphic cards or motherboards to fix them.
 Today I baked one myself.&lt;/p&gt;
@@ -82,9 +96,9 @@ Today I baked one myself.&lt;/p&gt;
     
     <item>
       <title>Java C: drive and current directory</title>
-      <link>/post/java-c-drive-and-current-directory/</link>
+      <link>//localhost:1313/post/java-c-drive-and-current-directory/</link>
       <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/post/java-c-drive-and-current-directory/</guid>
+      <guid>//localhost:1313/post/java-c-drive-and-current-directory/</guid>
       <description>&lt;p&gt;Hello again.&lt;/p&gt;
 &lt;p&gt;Today i want to share small feature that cost me some time while learning Java.&lt;/p&gt;
 &lt;p&gt;If you want to use directory and access it using this:&lt;/p&gt;
@@ -99,18 +113,18 @@ System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#3
     
     <item>
       <title>January 17, 2o14</title>
-      <link>/post/january-17-2014/</link>
+      <link>//localhost:1313/post/january-17-2014/</link>
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>/post/january-17-2014/</guid>
+      <guid>//localhost:1313/post/january-17-2014/</guid>
       <description>&lt;p&gt;It seems like I will remember this day forever. This day I experienced so many things for the first time. For the first time in my life I was feeling sick because of fear. For the first time in my life I nearly fainted. For the first time in my life I was crying from happiness. For the first time in my life I became a father.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>My wedding clip</title>
-      <link>/post/my-wedding-clip/</link>
+      <link>//localhost:1313/post/my-wedding-clip/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>/post/my-wedding-clip/</guid>
+      <guid>//localhost:1313/post/my-wedding-clip/</guid>
       <description>&lt;p&gt;Hello!&lt;/p&gt;
 &lt;p&gt;It has been a year since I got married. This happened on 9 September in Las Vegas, NV. To celebrate the past year I have made this little video clip describing how we got married. I like it.&lt;/p&gt;
 &lt;p&gt;This was a beautiful time!&lt;/p&gt;
@@ -124,9 +138,9 @@ System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#3
     
     <item>
       <title>Getting list of printers under Windows 2003 Server</title>
-      <link>/post/list-of-printers/</link>
+      <link>//localhost:1313/post/list-of-printers/</link>
       <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>/post/list-of-printers/</guid>
+      <guid>//localhost:1313/post/list-of-printers/</guid>
       <description>&lt;p&gt;This article is just a quick reminder to myself. Sometimes it is hard to
 find the information on how to do something so important like getting a list of printers in the command line.&lt;/p&gt;
 &lt;p&gt;Recently I faced the task that required me to export a list of printers from Windows 2003 Server. Of course, it would be an easier task in case of Windows 2008 Server but the older version has its tools too.&lt;/p&gt;
@@ -142,9 +156,9 @@ find the information on how to do something so important like getting a list of 
     
     <item>
       <title>Excel tips for system administrators</title>
-      <link>/post/excel-tips-for-system-administrators/</link>
+      <link>//localhost:1313/post/excel-tips-for-system-administrators/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/post/excel-tips-for-system-administrators/</guid>
+      <guid>//localhost:1313/post/excel-tips-for-system-administrators/</guid>
       <description>&lt;p&gt;Microsoft Excel is a very powerful tool. It is being used every day by lots of people around the world and every one of them uses it in a slightly different manner. Many different tasks can be completed using Excel. I personally believe that Excel is the best Microsoft product.&lt;/p&gt;
 &lt;p&gt;In my everyday job, I use Excel for several tasks. Of course, there is reporting tasks when I am preparing performance graphs or finding thin places in huge amounts of data. Also, I use excel when fulfilling my system administrator&#39;s task. In this article, I want to share some useful tips that help me every day.&lt;/p&gt;
 &lt;p&gt;Imagine that you need to provide a list of user&#39;s databases to HR so they can clean it up. This is a pretty simple task. In Windows open command prompt, go do directory which contains databases and enter&lt;/p&gt;
@@ -169,9 +183,9 @@ find the information on how to do something so important like getting a list of 
     
     <item>
       <title>New York, New York</title>
-      <link>/post/new-york/</link>
+      <link>//localhost:1313/post/new-york/</link>
       <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/post/new-york/</guid>
+      <guid>//localhost:1313/post/new-york/</guid>
       <description>&lt;p&gt;Recently I went to USA for a second time. This time I spend a week in New York only. This city is extra ordinal. It is huge in so many aspects. It has so many things to love as well as a lot of things to hate. I really enjoyed my stay.&lt;/p&gt;
 &lt;p&gt;I would like to share some places that I liked and of course some photos.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highline Park&lt;/strong&gt; is a great example of how to turn something old and ugly into beautiful thing. The park is built on abandoned railroad. It is nice place to have a walk or relax. I walked through all of it in early morning and enjoyed great view of the city and some fresh air.&lt;/p&gt;
@@ -264,8 +278,8 @@ find the information on how to do something so important like getting a list of 
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/new-york/gallery/1875_8905775380_o.jpg&#34; &gt;
-  &lt;img src=&#34;/post/new-york/gallery/1875_8905775380_o_hu4e26234ce895e22accbe07cd9fa05267_5052232_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/new-york/gallery/1875_8905775380_o.jpg&#34; &gt;
+  &lt;img src=&#34;//localhost:1313/post/new-york/gallery/1875_8905775380_o_hu4e26234ce895e22accbe07cd9fa05267_5052232_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -273,8 +287,8 @@ find the information on how to do something so important like getting a list of 
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/new-york/gallery/5th-ave-apple-store_8905801272_o.jpg&#34; &gt;
-  &lt;img src=&#34;/post/new-york/gallery/5th-ave-apple-store_8905801272_o_hu4e26234ce895e22accbe07cd9fa05267_6624196_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/new-york/gallery/5th-ave-apple-store_8905801272_o.jpg&#34; &gt;
+  &lt;img src=&#34;//localhost:1313/post/new-york/gallery/5th-ave-apple-store_8905801272_o_hu4e26234ce895e22accbe07cd9fa05267_6624196_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -282,8 +296,8 @@ find the information on how to do something so important like getting a list of 
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/new-york/gallery/911-memorial_8905814752_o.jpg&#34; &gt;
-  &lt;img src=&#34;/post/new-york/gallery/911-memorial_8905814752_o_hu4e26234ce895e22accbe07cd9fa05267_3976045_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/new-york/gallery/911-memorial_8905814752_o.jpg&#34; &gt;
+  &lt;img src=&#34;//localhost:1313/post/new-york/gallery/911-memorial_8905814752_o_hu4e26234ce895e22accbe07cd9fa05267_3976045_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -291,8 +305,8 @@ find the information on how to do something so important like getting a list of 
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/new-york/gallery/atlantic-ocean_8905807288_o.jpg&#34; &gt;
-  &lt;img src=&#34;/post/new-york/gallery/atlantic-ocean_8905807288_o_hu4e26234ce895e22accbe07cd9fa05267_4428408_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/new-york/gallery/atlantic-ocean_8905807288_o.jpg&#34; &gt;
+  &lt;img src=&#34;//localhost:1313/post/new-york/gallery/atlantic-ocean_8905807288_o_hu4e26234ce895e22accbe07cd9fa05267_4428408_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -300,8 +314,8 @@ find the information on how to do something so important like getting a list of 
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/new-york/gallery/empire-state-building_8905195719_o.jpg&#34; &gt;
-  &lt;img src=&#34;/post/new-york/gallery/empire-state-building_8905195719_o_hu4e26234ce895e22accbe07cd9fa05267_5119106_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/new-york/gallery/empire-state-building_8905195719_o.jpg&#34; &gt;
+  &lt;img src=&#34;//localhost:1313/post/new-york/gallery/empire-state-building_8905195719_o_hu4e26234ce895e22accbe07cd9fa05267_5119106_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -309,8 +323,8 @@ find the information on how to do something so important like getting a list of 
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/new-york/gallery/squirrel_8905790928_o.jpg&#34; &gt;
-  &lt;img src=&#34;/post/new-york/gallery/squirrel_8905790928_o_hu4e26234ce895e22accbe07cd9fa05267_4484945_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/new-york/gallery/squirrel_8905790928_o.jpg&#34; &gt;
+  &lt;img src=&#34;//localhost:1313/post/new-york/gallery/squirrel_8905790928_o_hu4e26234ce895e22accbe07cd9fa05267_4484945_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -321,9 +335,9 @@ find the information on how to do something so important like getting a list of 
     
     <item>
       <title>Video from my big trip through USA</title>
-      <link>/post/video-from-my-big-trip-through-usa/</link>
+      <link>//localhost:1313/post/video-from-my-big-trip-through-usa/</link>
       <pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/post/video-from-my-big-trip-through-usa/</guid>
+      <guid>//localhost:1313/post/video-from-my-big-trip-through-usa/</guid>
       <description>&lt;p&gt;Hello there!&lt;/p&gt;
 &lt;p&gt;It is been a while since I posted so I decided to share my vacation movie. I have already posted a trailer that I made with iMovie. Now I am posting this clip that contains a little bit more. I still recall this trip as my best vacation ever. I hope you will like it. I will try to do more exciting trips in the future.&lt;/p&gt;
 
@@ -336,9 +350,9 @@ find the information on how to do something so important like getting a list of 
     
     <item>
       <title>Look at my iMovie trailer</title>
-      <link>/post/look-at-my-imovie-trailer/</link>
+      <link>//localhost:1313/post/look-at-my-imovie-trailer/</link>
       <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>/post/look-at-my-imovie-trailer/</guid>
+      <guid>//localhost:1313/post/look-at-my-imovie-trailer/</guid>
       <description>&lt;p&gt;I got my hands on iMovie recently. With trailer templates, it is so easy to create great videos that make people smile. Look at what I did in 30 minutes with it. It is gorgeous. I and my friends loved it so much. Thank you, Apple for such a great application.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -350,9 +364,9 @@ find the information on how to do something so important like getting a list of 
     
     <item>
       <title>My USA trip</title>
-      <link>/post/my-usa-trip/</link>
+      <link>//localhost:1313/post/my-usa-trip/</link>
       <pubDate>Tue, 18 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>/post/my-usa-trip/</guid>
+      <guid>//localhost:1313/post/my-usa-trip/</guid>
       <description>&lt;p&gt;Hello!&lt;/p&gt;
 &lt;p&gt;I just got back from my trip to the USA. It was an amazing experience. We traveled through 13 states from east to west. The amount of things I saw in these two weeks is huge. Every day was a trip by itself. I can not wait to share my photos.&lt;/p&gt;
 &lt;p&gt;By now I have created a map with all the main stops we had by the way from New York to San Francisco.&lt;/p&gt;
@@ -362,9 +376,9 @@ find the information on how to do something so important like getting a list of 
     
     <item>
       <title>Cultural heritage</title>
-      <link>/post/cultural-heritage/</link>
+      <link>//localhost:1313/post/cultural-heritage/</link>
       <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/post/cultural-heritage/</guid>
+      <guid>//localhost:1313/post/cultural-heritage/</guid>
       <description>&lt;p&gt;I love traveling and food. A rare person doesn&#39;t like these two, right?&lt;/p&gt;
 &lt;p&gt;At the intersection of these my two passions I love eating while I am traveling. Don&#39;t get me wrong, I enjoy visiting new places and learning something new about them. In fact, I often conduct cultural research before I am headed somewhere. But I get bored pretty quickly with people that try
 to watch every other sculpture that foreign country may provide. I do not mind sightseeing at all and there are many beautiful things to see in any country.&lt;/p&gt;
@@ -377,9 +391,9 @@ to watch every other sculpture that foreign country may provide. I do not mind s
     
     <item>
       <title>Hello and Welcome!</title>
-      <link>/post/hello/</link>
+      <link>//localhost:1313/post/hello/</link>
       <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/post/hello/</guid>
+      <guid>//localhost:1313/post/hello/</guid>
       <description>&lt;p&gt;I have been dreaming about my own blog since I had my first PC. Those times the internet in Russia was pretty bad. There was only one dial-up provider in my town, and the prices were huge. In fact, it was billed per minute of usage. I had to disconnect every time the page was loaded so I could read it in peace without worrying about money.
 I never felt neither I had enough things to tell about, nor my English level was proficient enough. I tried to create my own web sites though they were pretty basic.
 It changed a lot since then. I learned English a bit. I started to gain my technical skills and develop my career in IT. Now it seems like I can afford a little blog of mine.&lt;/p&gt;

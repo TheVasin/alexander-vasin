@@ -56,6 +56,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv_alexander_vasin.pdf
+- icon: youtube
+  icon_pack: fab
+  link: https://youtu.be/we9oHVrd7o4
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alexander.v.vasin@gmail.com"

@@ -31,7 +31,7 @@
   <meta name="description" content="Alexander Vasin&#39;s web site">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/404.html">
 
   
 
@@ -89,42 +89,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2535611-5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-2535611-5', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -134,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="//localhost:1313/404.html">
 
   
   
@@ -147,10 +111,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Alexander Vasin">
-  <meta property="og:url" content="/404.html">
+  <meta property="og:url" content="//localhost:1313/404.html">
   <meta property="og:title" content="404 Page not found | Alexander Vasin">
-  <meta property="og:description" content="Alexander Vasin&#39;s web site"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Alexander Vasin&#39;s web site"><meta property="og:image" content="//localhost:1313/img/icon-192.png">
+  <meta property="twitter:image" content="//localhost:1313/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -396,6 +360,8 @@
   <h2>Latest</h2>
   <ul>
     
+      <li><a href="/post/my-live-stream/">My live stream</a></li>
+    
       <li><a href="/post/time-to-read/">Apple is giving us some time to read books</a></li>
     
       <li><a href="/post/cruising/">Cruising</a></li>
@@ -413,8 +379,6 @@
       <li><a href="/post/list-of-printers/">Getting list of printers under Windows 2003 Server</a></li>
     
       <li><a href="/post/excel-tips-for-system-administrators/">Excel tips for system administrators</a></li>
-    
-      <li><a href="/post/new-york/">New York, New York</a></li>
     
   </ul>
   
@@ -585,5 +549,5 @@
   </div>
 </div>
 
-</body>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
 </html>
